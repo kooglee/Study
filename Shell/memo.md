@@ -19,3 +19,12 @@
 Day2
 
 앞으로 ifconfig 사용하지 말고  ip r 사용
+
+- tmux
+
+	- 창생성 Ctrl+b  > Shift+'
+	- 창이동 Ctrl+b  > 화살표
+
+
+
+Day3
